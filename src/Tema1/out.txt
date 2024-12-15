@@ -1,0 +1,5 @@
+
+Suma: 32
+Maxima: 7
+Minima: 2
+Media: 5.3333335
